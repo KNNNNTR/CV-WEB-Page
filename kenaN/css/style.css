@@ -1,0 +1,25 @@
+body {
+background-color: #F7F4ED;
+}
+
+.links {
+text-decoration: none;
+color: white;
+}
+
+.links:hover {
+text-decoration: underline;
+color: white;
+}
+
+.slaytp {
+color: black;
+font-size: 23px;
+}
+
+.hakkimda {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
